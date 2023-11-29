@@ -16,7 +16,7 @@ To write a program to find the square root of a number.
 
 ## Program:
 ```py
-/*
+
 def newton_method(number, number_iters = 100):
     a = float(number)
     for i in range(number_iters):
